@@ -1,0 +1,7 @@
+{
+  "name": "BikeSentinel",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
